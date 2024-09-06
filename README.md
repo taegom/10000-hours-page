@@ -1,6 +1,3 @@
-# 10000-hours-page
-desktop 버전과 mobile 버전 두가지 
-
 <!DOCTYPE html>
 <html lang="ko-KR">
   <head>
